@@ -157,4 +157,5 @@ Kira
 - [Blake] (https://github.com/Blake575)
 - [Sidekick] (https://github.com/KumarAmitMehta)
 - [Stanley Yu](https://github.com/stanley98yu)
+- [b1ng05](https://github.com/b1ng05)
 
